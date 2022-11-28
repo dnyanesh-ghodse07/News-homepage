@@ -35,6 +35,11 @@ body{
     text-decoration: none;
     color: hsl(236, 13%, 42%);
 }
+
+.nav_links ul li a:hover{
+    text-decoration: none;
+    color:  hsl(35, 77%, 62%);
+}
 /* highlights  */
 
 .highlights{
@@ -84,6 +89,7 @@ body{
     background: hsl(5, 85%, 63%);
     color: aliceblue;
     letter-spacing: 4px;
+    cursor: pointer;
 }
 
 .highlight_right{
